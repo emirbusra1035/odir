@@ -23,7 +23,6 @@ def get_inception():
         counter += 1
     return net
 
-
 def get_resnet():
     net = models.resnet50(pretrained=True)
     net.fc = nn.Linear(2048, 2)
