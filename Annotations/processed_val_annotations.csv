@@ -1,0 +1,472 @@
+﻿ID;Patient Age;Patient Sex;Left-Fundus;Right-Fundus;Left-Diagnostic Keywords;Right-Diagnostic Keywords;N;D;G;C;A;H;M;O
+937;60;Female;937_left.jpg;937_right.jpg;hypertensive retinopathy;hypertensive retinopathy,suspected diabetic retinopathy;0;1;0;0;0;1;0;0
+967;21;Female;967_left.jpg;967_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy,epiretinal membrane;0;1;0;0;0;0;0;1
+988;60;Female;988_left.jpg;988_right.jpg;mild nonproliferative retinopathy;epiretinal membrane,moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1000;63;Male;1000_left.jpg;1000_right.jpg;laser spot,moderate nonproliferative retinopathy;moderate nonproliferative retinopathy,laser spot;0;1;0;0;0;0;0;1
+1001;65;Female;1001_left.jpg;1001_right.jpg;macular epiretinal membrane;epiretinal membrane,mild nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1002;51;Female;1002_left.jpg;1002_right.jpg;drusen,mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1003;68;Male;1003_left.jpg;1003_right.jpg;hypertensive retinopathy,suspected diabetic retinopathy;hypertensive retinopathy,suspected diabetic retinopathy;0;1;0;0;0;1;0;0
+1004;60;Male;1004_left.jpg;1004_right.jpg;moderate nonproliferative retinopathy;vitreous degeneration;0;1;0;0;0;0;0;1
+1007;59;Male;1007_left.jpg;1007_right.jpg;white vessel,severe nonproliferative retinopathy;laser spot,moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1009;64;Male;1009_left.jpg;1009_right.jpg;branch retinal vein occlusion;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1026;54;Male;1026_left.jpg;1026_right.jpg;chorioretinal atrophy,mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1027;57;Male;1027_left.jpg;1027_right.jpg;moderate nonproliferative retinopathy;macular epiretinal membrane;0;1;0;0;0;0;0;1
+1030;69;Female;1030_left.jpg;1030_right.jpg;drusen,mild nonproliferative retinopathy;drusen;0;1;0;0;0;0;0;1
+1037;65;Female;1037_left.jpg;1037_right.jpg;epiretinal membrane;mild nonproliferative retinopathy,epiretinal membrane;0;1;0;0;0;0;0;1
+1042;64;Female;1042_left.jpg;1042_right.jpg;refractive media opacity;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1044;67;Male;1044_left.jpg;1044_right.jpg;macular epiretinal membrane,moderate nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1047;62;Female;1047_left.jpg;1047_right.jpg;macular hole,epiretinal membrane,moderate nonproliferative retinopathy;drusen;0;1;0;0;0;0;0;1
+1049;60;Male;1049_left.jpg;1049_right.jpg;normal fundus;moderate nonproliferative retinopathy,myelinated nerve fibers;0;1;0;0;0;0;0;1
+1051;58;Male;1051_left.jpg;1051_right.jpg;pigmentation disorder;mild nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1055;69;Male;1055_left.jpg;1055_right.jpg;macular epiretinal membrane;mild nonproliferative retinopathy,macular epiretinal membrane;0;1;0;0;0;0;0;1
+1057;59;Female;1057_left.jpg;1057_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy,retinal pigmentation;0;1;0;0;0;0;0;1
+1063;55;Male;1063_left.jpg;1063_right.jpg;moderate nonproliferative retinopathy;myelinated nerve fibers;0;1;0;0;0;0;0;1
+1067;66;Male;1067_left.jpg;1067_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy,vitreous degeneration;0;1;0;0;0;0;0;1
+1069;66;Male;1069_left.jpg;1069_right.jpg;epiretinal membrane;moderate nonproliferative retinopathy,moderate nonproliferative retinopathy,moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1070;59;Female;1070_left.jpg;1070_right.jpg;mild nonproliferative retinopathy;myelinated nerve fibers;0;1;0;0;0;0;0;1
+1073;65;Female;1073_left.jpg;1073_right.jpg;vitreous degeneration;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1076;65;Female;1076_left.jpg;1076_right.jpg;moderate nonproliferative retinopathy;epiretinal membrane,moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1078;69;Male;1078_left.jpg;1078_right.jpg;mild nonproliferative retinopathy;macular epiretinal membrane;0;1;0;0;0;0;0;1
+1088;59;Female;1088_left.jpg;1088_right.jpg;macular epiretinal membrane,mild nonproliferative retinopathy;mild nonproliferative retinopathy,epiretinal membrane,myelinated nerve fibers;0;1;0;0;0;0;0;1
+1100;59;Male;1100_left.jpg;1100_right.jpg;laser spot,mild nonproliferative retinopathy,epiretinal membrane;laser spot;0;1;0;0;0;0;0;1
+1105;62;Male;1105_left.jpg;1105_right.jpg;moderate nonproliferative retinopathy;myelinated nerve fibers,moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1107;66;Female;1107_left.jpg;1107_right.jpg;normal fundus;moderate nonproliferative retinopathy,retinal pigmentation;0;1;0;0;0;0;0;1
+1108;66;Male;1108_left.jpg;1108_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy,epiretinal membrane;0;1;0;0;0;0;0;1
+1110;65;Male;1110_left.jpg;1110_right.jpg;moderate nonproliferative retinopathy,epiretinal membrane;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1112;61;Female;1112_left.jpg;1112_right.jpg;moderate nonproliferative retinopathy;severe nonproliferative retinopathy,atrophic change;0;1;0;0;0;0;0;1
+1128;66;Female;1128_left.jpg;1128_right.jpg;normal fundus;mild nonproliferative retinopathy,epiretinal membrane;0;1;0;0;0;0;0;1
+1135;69;Female;1135_left.jpg;1135_right.jpg;white vessel;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;1
+1178;62;Male;1178_left.jpg;1178_right.jpg;macular coloboma;macular coloboma;0;0;0;0;0;0;0;1
+1179;70;Male;1179_left.jpg;1179_right.jpg;myelinated nerve fibers;normal fundus;0;0;0;0;0;0;0;1
+1180;45;Male;1180_left.jpg;1180_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1183;50;Male;1183_left.jpg;1183_right.jpg;central retinal artery occlusion;central retinal artery occlusion;0;0;0;0;0;0;0;1
+1184;61;Male;1184_left.jpg;1184_right.jpg;branch retinal vein occlusion,macular epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1192;58;Male;1192_left.jpg;1192_right.jpg;normal fundus;myelinated nerve fibers;0;0;0;0;0;0;0;1
+1193;68;Male;1193_left.jpg;1193_right.jpg;macular epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1199;44;Male;1199_left.jpg;1199_right.jpg;normal fundus;myelinated nerve fibers;0;0;0;0;0;0;0;1
+1201;69;Male;1201_left.jpg;1201_right.jpg;drusen;maculopathy;0;0;0;0;0;0;0;1
+1224;57;Male;1224_left.jpg;1224_right.jpg;drusen;drusen;0;0;0;0;0;0;0;1
+1244;65;Male;1244_left.jpg;1244_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1249;80;Male;1249_left.jpg;1249_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1252;56;Male;1252_left.jpg;1252_right.jpg;suspected abnormal macular pigment ;chorioretinal atrophy with pigmentation proliferation;0;0;0;0;0;0;0;1
+1275;73;Male;1275_left.jpg;1275_right.jpg;drusen;drusen;0;0;0;0;0;0;0;1
+1283;48;Male;1283_left.jpg;1283_right.jpg;tessellated fundus;normal fundus;0;0;0;0;0;0;0;1
+1292;48;Male;1292_left.jpg;1292_right.jpg;spotted membranous change;normal fundus;0;0;0;0;0;0;0;1
+1298;56;Male;1298_left.jpg;1298_right.jpg;nerve fiber layer defect;normal fundus;0;0;0;0;0;0;0;1
+1300;43;Male;1300_left.jpg;1300_right.jpg;nerve fiber layer defect;normal fundus;0;0;0;0;0;0;0;1
+1305;54;Male;1305_left.jpg;1305_right.jpg;drusen;drusen;0;0;0;0;0;0;0;1
+1312;60;Female;1312_left.jpg;1312_right.jpg;myelinated nerve fibers;normal fundus;0;0;0;0;0;0;0;1
+1315;80;Female;1315_left.jpg;1315_right.jpg;drusen;macular epiretinal membrane;0;0;0;0;0;0;0;1
+1317;63;Male;1317_left.jpg;1317_right.jpg;normal fundus;drusen;0;0;0;0;0;0;0;1
+1321;54;Female;1321_left.jpg;1321_right.jpg;refractive media opacity;refractive media opacity;0;0;0;0;0;0;0;1
+1323;73;Female;1323_left.jpg;1323_right.jpg;vitreous degeneration;normal fundus;0;0;0;0;0;0;0;1
+1324;80;Male;1324_left.jpg;1324_right.jpg;drusen;drusen;0;0;0;0;0;0;0;1
+1326;56;Male;1326_left.jpg;1326_right.jpg;normal fundus;myelinated nerve fibers;0;0;0;0;0;0;0;1
+1329;65;Female;1329_left.jpg;1329_right.jpg;retinal vascular sheathing;refractive media opacity;0;0;0;0;0;0;0;1
+1331;72;Female;1331_left.jpg;1331_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1333;63;Male;1333_left.jpg;1333_right.jpg;myelinated nerve fibers;normal fundus;0;0;0;0;0;0;0;1
+1335;51;Male;1335_left.jpg;1335_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1338;53;Female;1338_left.jpg;1338_right.jpg;pigmentation disorder;normal fundus;0;0;0;0;0;0;0;1
+1339;62;Female;1339_left.jpg;1339_right.jpg;epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1340;60;Female;1340_left.jpg;1340_right.jpg;macular epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1341;62;Male;1341_left.jpg;1341_right.jpg;pigmentation disorder;normal fundus;0;0;0;0;0;0;0;1
+1343;69;Female;1343_left.jpg;1343_right.jpg;pigmentation disorder;normal fundus;0;0;0;0;0;0;0;1
+1346;65;Female;1346_left.jpg;1346_right.jpg;normal fundus;vitreous degeneration;0;0;0;0;0;0;0;1
+1347;83;Male;1347_left.jpg;1347_right.jpg;vitreous degeneration;normal fundus;0;0;0;0;0;0;0;1
+1348;55;Female;1348_left.jpg;1348_right.jpg;macular epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1354;65;Female;1354_left.jpg;1354_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1355;69;Male;1355_left.jpg;1355_right.jpg;drusen;normal fundus;0;0;0;0;0;0;0;1
+1357;49;Female;1357_left.jpg;1357_right.jpg;refractive media opacity;normal fundus;0;0;0;0;0;0;0;1
+1359;73;Male;1359_left.jpg;1359_right.jpg;normal fundus;chorioretinal atrophy;0;0;0;0;0;0;0;1
+1361;62;Male;1361_left.jpg;1361_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1363;65;Male;1363_left.jpg;1363_right.jpg;glaucoma,hypertensive retinopathy;glaucoma,hypertensive retinopathy;0;0;1;0;0;1;0;0
+1367;62;Male;1367_left.jpg;1367_right.jpg;normal fundus;spotted membranous change;0;0;0;0;0;0;0;1
+1370;43;Female;1370_left.jpg;1370_right.jpg;refractive media opacity;refractive media opacity;0;0;0;0;0;0;0;1
+1376;72;Female;1376_left.jpg;1376_right.jpg;normal fundus;pigmentation disorder;0;0;0;0;0;0;0;1
+1379;70;Male;1379_left.jpg;1379_right.jpg;refractive media opacity;normal fundus;0;0;0;0;0;0;0;1
+1380;80;Male;1380_left.jpg;1380_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1381;64;Male;1381_left.jpg;1381_right.jpg;tessellated fundus;tessellated fundus;0;0;0;0;0;0;0;1
+1382;59;Female;1382_left.jpg;1382_right.jpg;normal fundus;chorioretinal atrophy;0;0;0;0;0;0;0;1
+1385;80;Female;1385_left.jpg;1385_right.jpg;normal fundus;macular epiretinal membrane,drusen;0;0;0;0;0;0;0;1
+1390;76;Male;1390_left.jpg;1390_right.jpg;drusen;normal fundus;0;0;0;0;0;0;0;1
+1398;62;Male;1398_left.jpg;1398_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1399;63;Female;1399_left.jpg;1399_right.jpg;normal fundus;macular epiretinal membrane;0;0;0;0;0;0;0;1
+1400;45;Female;1400_left.jpg;1400_right.jpg;retinal pigmentation;normal fundus;0;0;0;0;0;0;0;1
+1403;60;Female;1403_left.jpg;1403_right.jpg;suspected microvascular anomalies;normal fundus;0;0;0;0;0;0;0;1
+1407;64;Female;1407_left.jpg;1407_right.jpg;epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1430;73;Male;1430_left.jpg;1430_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1432;70;Male;1432_left.jpg;1432_right.jpg;vitreous opacity,hypertensive retinopathy;suspected glaucoma,hypertensive retinopathy;0;0;1;0;0;1;0;1
+1437;48;Male;1437_left.jpg;1437_right.jpg;refractive media opacity;refractive media opacity;0;0;0;0;0;0;0;1
+1438;69;Female;1438_left.jpg;1438_right.jpg;normal fundus;refractive media opacity;0;0;0;0;0;0;0;1
+1445;64;Male;1445_left.jpg;1445_right.jpg;peripapillary atrophy;peripapillary atrophy;0;0;0;0;0;0;0;1
+1446;62;Male;1446_left.jpg;1446_right.jpg;normal fundus;congenital choroidal coloboma;0;0;0;0;0;0;0;1
+1448;66;Male;1448_left.jpg;1448_right.jpg;normal fundus;laser spot;0;0;0;0;0;0;0;1
+1449;72;Female;1449_left.jpg;1449_right.jpg;refractive media opacity;refractive media opacity;0;0;0;0;0;0;0;1
+1451;55;Female;1451_left.jpg;1451_right.jpg;normal fundus;chorioretinal atrophy;0;0;0;0;0;0;0;1
+1457;61;Female;1457_left.jpg;1457_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1461;56;Female;1461_left.jpg;1461_right.jpg;glaucoma;cataract;0;0;1;1;0;0;0;0
+1472;62;Female;1472_left.jpg;1472_right.jpg;epiretinal membrane;normal fundus;0;0;0;0;0;0;0;1
+1499;56;Female;1499_left.jpg;1499_right.jpg;normal fundus;glaucoma;0;0;1;0;0;0;0;0
+1500;63;Female;1500_left.jpg;1500_right.jpg;glaucoma;glaucoma;0;0;1;0;0;0;0;0
+1501;46;Female;1501_left.jpg;1501_right.jpg;glaucoma;glaucoma;0;0;1;0;0;0;0;0
+1502;79;Female;1502_left.jpg;1502_right.jpg;glaucoma;normal fundus;0;0;1;0;0;0;0;0
+1508;76;Female;1508_left.jpg;1508_right.jpg;glaucoma;normal fundus;0;0;1;0;0;0;0;0
+1511;57;Female;1511_left.jpg;1511_right.jpg;suspected glaucoma;suspected glaucoma,old branch retinal vein occlusion;0;0;1;0;0;0;0;1
+1512;59;Female;1512_left.jpg;1512_right.jpg;normal fundus;epiretinal membrane;0;0;0;0;0;0;0;1
+1517;64;Female;1517_left.jpg;1517_right.jpg;normal fundus;glaucoma;0;0;1;0;0;0;0;0
+1521;50;Female;1521_left.jpg;1521_right.jpg;normal fundus;glaucoma;0;0;1;0;0;0;0;0
+1522;53;Female;1522_left.jpg;1522_right.jpg;normal fundus;myelinated nerve fibers;0;0;0;0;0;0;0;1
+1524;54;Female;1524_left.jpg;1524_right.jpg;chorioretinal atrophy;chorioretinal atrophy;0;0;0;0;0;0;0;1
+1525;59;Male;1525_left.jpg;1525_right.jpg;moderate nonproliferative retinopathy,pathological myopia;pathological myopia;0;1;0;0;0;0;1;0
+1582;58;Female;1582_left.jpg;1582_right.jpg;tessellated fundus;tessellated fundus;0;0;0;0;0;0;0;1
+1592;1;Female;1592_left.jpg;1592_right.jpg;tessellated fundus;tessellated fundus;0;0;0;0;0;0;0;1
+1596;65;Female;1596_left.jpg;1596_right.jpg;tessellated fundus,chorioretinal atrophy;tessellated fundus;0;0;0;0;0;0;0;1
+1604;1;Female;1604_left.jpg;1604_right.jpg;tessellated fundus,peripapillary atrophy;tessellated fundus,peripapillary atrophy;0;0;0;0;0;0;0;1
+1632;54;Female;1632_left.jpg;1632_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1648;64;Female;1648_left.jpg;1648_right.jpg;normal fundus;pathological myopia;0;0;0;0;0;0;1;0
+1668;32;Male;1668_left.jpg;1668_right.jpg;normal fundus;pathological myopia;0;0;0;0;0;0;1;0
+1669;63;Male;1669_left.jpg;1669_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1670;64;Male;1670_left.jpg;1670_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1672;53;Female;1672_left.jpg;1672_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1675;50;Male;1675_left.jpg;1675_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1678;77;Female;1678_left.jpg;1678_right.jpg;moderate nonproliferative retinopathy,pathological myopia;pathological myopia;0;1;0;0;0;0;1;0
+1679;57;Female;1679_left.jpg;1679_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1680;50;Female;1680_left.jpg;1680_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1682;74;Female;1682_left.jpg;1682_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1684;73;Male;1684_left.jpg;1684_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1685;62;Female;1685_left.jpg;1685_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1688;78;Female;1688_left.jpg;1688_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1690;48;Female;1690_left.jpg;1690_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1691;72;Female;1691_left.jpg;1691_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1701;62;Female;1701_left.jpg;1701_right.jpg;tessellated fundus;pathological myopia;0;0;0;0;0;0;1;1
+1703;59;Female;1703_left.jpg;1703_right.jpg;pathological myopia;pathological myopia;0;0;0;0;0;0;1;0
+1723;60;Female;1723_left.jpg;1723_right.jpg;pathological myopia;tessellated fundus;0;0;0;0;0;0;1;1
+1730;76;Female;1730_left.jpg;1730_right.jpg;refractive media opacity;pathological myopia;0;0;0;0;0;0;1;1
+1737;56;Male;1737_left.jpg;1737_right.jpg;tessellated fundus;pathological myopia;0;0;0;0;0;0;1;1
+1745;72;Male;1745_left.jpg;1745_right.jpg;pathological myopia;tessellated fundus;0;0;0;0;0;0;1;1
+1882;45;Female;1882_left.jpg;1882_right.jpg;dry age-related macular degeneration,glaucoma;dry age-related macular degeneration,glaucoma;0;0;1;0;1;0;0;0
+1895;74;Male;1895_left.jpg;1895_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1897;60;Male;1897_left.jpg;1897_right.jpg;wet age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1898;61;Female;1898_left.jpg;1898_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1899;70;Male;1899_left.jpg;1899_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1902;71;Male;1902_left.jpg;1902_right.jpg;normal fundus;wet age-related macular degeneration;0;0;0;0;1;0;0;0
+1907;66;Female;1907_left.jpg;1907_right.jpg;wet age-related macular degeneration;wet age-related macular degeneration;0;0;0;0;1;0;0;0
+1909;60;Female;1909_left.jpg;1909_right.jpg;normal fundus;wet age-related macular degeneration;0;0;0;0;1;0;0;0
+1911;77;Male;1911_left.jpg;1911_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1912;72;Female;1912_left.jpg;1912_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1913;78;Female;1913_left.jpg;1913_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1914;86;Male;1914_left.jpg;1914_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1916;73;Female;1916_left.jpg;1916_right.jpg;wet age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1917;65;Female;1917_left.jpg;1917_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1920;59;Female;1920_left.jpg;1920_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1921;66;Male;1921_left.jpg;1921_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1922;51;Female;1922_left.jpg;1922_right.jpg;dry age-related macular degeneration,post laser photocoagulation,diabetic retinopathy;dry age-related macular degeneration,post laser photocoagulation,diabetic retinopathy;0;1;0;0;1;0;0;1
+1926;68;Male;1926_left.jpg;1926_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1931;68;Male;1931_left.jpg;1931_right.jpg;dry age-related macular degeneration;dry age-related macular degeneration;0;0;0;0;1;0;0;0
+1960;50;Female;1960_left.jpg;1960_right.jpg;hypertensive retinopathy;hypertensive retinopathy;0;0;0;0;0;1;0;0
+1972;48;Female;1972_left.jpg;1972_right.jpg;glaucoma,moderate nonproliferative retinopathy;glaucoma;0;1;1;0;0;0;0;0
+1979;62;Male;1979_left.jpg;1979_right.jpg;glaucoma;normal fundus;0;0;1;0;0;0;0;0
+1992;44;Male;1992_left.jpg;1992_right.jpg;glaucoma;normal fundus;0;0;1;0;0;0;0;0
+1995;49;Male;1995_left.jpg;1995_right.jpg;glaucoma;glaucoma;0;0;1;0;0;0;0;0
+1997;40;Male;1997_left.jpg;1997_right.jpg;glaucoma;glaucoma;0;0;1;0;0;0;0;0
+1998;61;Male;1998_left.jpg;1998_right.jpg;glaucoma;normal fundus;0;0;1;0;0;0;0;0
+2001;55;Male;2001_left.jpg;2001_right.jpg;glaucoma;glaucoma,old branch retinal vein occlusion;0;0;1;0;0;0;0;1
+2009;69;Male;2009_left.jpg;2009_right.jpg;suspected glaucoma;normal fundus;0;0;1;0;0;0;0;0
+2013;47;Female;2013_left.jpg;2013_right.jpg;glaucoma;retinitis pigmentosa;0;0;1;0;0;0;0;1
+2021;47;Male;2021_left.jpg;2021_right.jpg;glaucoma;glaucoma,epiretinal membrane;0;0;1;0;0;0;0;1
+2028;47;Male;2028_left.jpg;2028_right.jpg;normal fundus;suspected glaucoma,retina fold;0;0;1;0;0;0;0;1
+2029;51;Male;2029_left.jpg;2029_right.jpg;glaucoma,dry age-related macular degeneration;glaucoma,macular epiretinal membrane;0;0;1;0;1;0;0;1
+2040;73;Female;2040_left.jpg;2040_right.jpg;hypertensive retinopathy;hypertensive retinopathy;0;0;0;0;0;1;0;0
+2043;54;Female;2043_left.jpg;2043_right.jpg;suspected glaucoma;chorioretinal atrophy;0;0;1;0;0;0;0;1
+2071;74;Male;2071_left.jpg;2071_right.jpg;wet age-related macular degeneration;dry age-related macular degeneration,myelinated nerve fibers;0;0;0;0;1;0;0;1
+2073;54;Male;2073_left.jpg;2073_right.jpg;hypertensive retinopathy;hypertensive retinopathy;0;0;0;0;0;1;0;0
+2131;63;Male;2131_left.jpg;2131_right.jpg;cataract;cataract,myelinated nerve fibers;0;0;0;1;0;0;0;1
+2224;34;Female;2224_left.jpg;2224_right.jpg;cataract;tessellated fundus;0;0;0;1;0;0;0;1
+2245;52;Female;2245_left.jpg;2245_right.jpg;cataract;moderate nonproliferative retinopathy,epiretinal membrane;0;1;0;1;0;0;0;1
+2252;55;Female;2252_left.jpg;2252_right.jpg;cataract;refractive media opacity;0;0;0;1;0;0;0;1
+2254;52;Female;2254_left.jpg;2254_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2255;63;Female;2255_left.jpg;2255_right.jpg;cataract;normal fundus;0;0;0;1;0;0;0;0
+2256;74;Male;2256_left.jpg;2256_right.jpg;cataract;normal fundus;0;0;0;1;0;0;0;0
+2257;65;Female;2257_left.jpg;2257_right.jpg;normal fundus;cataract;0;0;0;1;0;0;0;0
+2258;67;Female;2258_left.jpg;2258_right.jpg;normal fundus;cataract;0;0;0;1;0;0;0;0
+2259;73;Female;2259_left.jpg;2259_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2260;81;Male;2260_left.jpg;2260_right.jpg;cataract;normal fundus;0;0;0;1;0;0;0;0
+2261;53;Female;2261_left.jpg;2261_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2263;38;Male;2263_left.jpg;2263_right.jpg;cataract;normal fundus;0;0;0;1;0;0;0;0
+2264;82;Female;2264_left.jpg;2264_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2265;95;Male;2265_left.jpg;2265_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2266;67;Male;2266_left.jpg;2266_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2267;80;Female;2267_left.jpg;2267_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2268;63;Male;2268_left.jpg;2268_right.jpg;normal fundus;cataract;0;0;0;1;0;0;0;0
+2270;63;Female;2270_left.jpg;2270_right.jpg;cataract;cataract,moderate nonproliferative retinopathy;0;1;0;1;0;0;0;0
+2271;75;Female;2271_left.jpg;2271_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2272;64;Male;2272_left.jpg;2272_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2273;65;Female;2273_left.jpg;2273_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2274;63;Female;2274_left.jpg;2274_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2275;58;Female;2275_left.jpg;2275_right.jpg;moderate nonproliferative retinopathy;cataract;0;1;0;1;0;0;0;0
+2276;69;Male;2276_left.jpg;2276_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2277;69;Male;2277_left.jpg;2277_right.jpg;cataract;cataract;0;0;0;1;0;0;0;0
+2286;79;Female;2286_left.jpg;2286_right.jpg;moderate nonproliferative retinopathy;cataract;0;1;0;1;0;0;0;0
+2315;64;Male;2315_left.jpg;2315_right.jpg;moderate nonproliferative retinopathy;cataract;0;1;0;1;0;0;0;0
+3447;38;Female;3447_left.jpg;3447_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3449;66;Female;3449_left.jpg;3449_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3451;65;Female;3451_left.jpg;3451_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3452;54;Female;3452_left.jpg;3452_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3453;48;Female;3453_left.jpg;3453_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3454;50;Female;3454_left.jpg;3454_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3455;69;Male;3455_left.jpg;3455_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3456;42;Female;3456_left.jpg;3456_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3457;48;Male;3457_left.jpg;3457_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3459;62;Female;3459_left.jpg;3459_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3460;58;Female;3460_left.jpg;3460_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3461;63;Male;3461_left.jpg;3461_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3462;70;Female;3462_left.jpg;3462_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3463;65;Female;3463_left.jpg;3463_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3464;60;Male;3464_left.jpg;3464_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3465;36;Male;3465_left.jpg;3465_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3466;56;Female;3466_left.jpg;3466_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3467;54;Male;3467_left.jpg;3467_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3468;69;Male;3468_left.jpg;3468_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3469;54;Female;3469_left.jpg;3469_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3470;77;Male;3470_left.jpg;3470_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3472;57;Female;3472_left.jpg;3472_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3473;66;Male;3473_left.jpg;3473_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3474;42;Female;3474_left.jpg;3474_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3475;59;Male;3475_left.jpg;3475_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3476;56;Male;3476_left.jpg;3476_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3477;73;Male;3477_left.jpg;3477_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3478;52;Female;3478_left.jpg;3478_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3479;60;Female;3479_left.jpg;3479_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3480;42;Male;3480_left.jpg;3480_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3481;54;Male;3481_left.jpg;3481_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3482;60;Male;3482_left.jpg;3482_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3484;55;Male;3484_left.jpg;3484_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3486;67;Male;3486_left.jpg;3486_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3487;56;Male;3487_left.jpg;3487_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3488;45;Female;3488_left.jpg;3488_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3489;66;Female;3489_left.jpg;3489_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3490;63;Male;3490_left.jpg;3490_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3492;73;Male;3492_left.jpg;3492_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3493;35;Male;3493_left.jpg;3493_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3494;66;Male;3494_left.jpg;3494_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3496;57;Male;3496_left.jpg;3496_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3497;56;Male;3497_left.jpg;3497_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3498;46;Male;3498_left.jpg;3498_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3499;56;Female;3499_left.jpg;3499_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3500;48;Male;3500_left.jpg;3500_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3502;54;Female;3502_left.jpg;3502_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3503;34;Female;3503_left.jpg;3503_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3504;71;Female;3504_left.jpg;3504_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3505;51;Female;3505_left.jpg;3505_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3507;52;Female;3507_left.jpg;3507_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3508;54;Female;3508_left.jpg;3508_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3509;46;Male;3509_left.jpg;3509_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3510;55;Male;3510_left.jpg;3510_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3511;74;Female;3511_left.jpg;3511_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3512;55;Male;3512_left.jpg;3512_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3513;65;Male;3513_left.jpg;3513_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3514;46;Male;3514_left.jpg;3514_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3516;37;Male;3516_left.jpg;3516_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3517;50;Female;3517_left.jpg;3517_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3518;70;Female;3518_left.jpg;3518_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3519;39;Female;3519_left.jpg;3519_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3520;65;Female;3520_left.jpg;3520_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3521;72;Female;3521_left.jpg;3521_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3522;50;Male;3522_left.jpg;3522_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3523;51;Male;3523_left.jpg;3523_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3524;65;Male;3524_left.jpg;3524_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3525;43;Female;3525_left.jpg;3525_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3526;86;Female;3526_left.jpg;3526_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3527;72;Female;3527_left.jpg;3527_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3529;66;Male;3529_left.jpg;3529_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3530;52;Male;3530_left.jpg;3530_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3531;65;Male;3531_left.jpg;3531_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3532;56;Female;3532_left.jpg;3532_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3533;61;Male;3533_left.jpg;3533_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3534;55;Male;3534_left.jpg;3534_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3535;55;Female;3535_left.jpg;3535_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3536;70;Female;3536_left.jpg;3536_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3537;50;Male;3537_left.jpg;3537_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3538;63;Male;3538_left.jpg;3538_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3539;68;Male;3539_left.jpg;3539_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3540;40;Male;3540_left.jpg;3540_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3541;84;Male;3541_left.jpg;3541_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3542;50;Male;3542_left.jpg;3542_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3543;40;Female;3543_left.jpg;3543_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3544;55;Male;3544_left.jpg;3544_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3545;67;Female;3545_left.jpg;3545_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3546;60;Male;3546_left.jpg;3546_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3548;59;Male;3548_left.jpg;3548_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3549;62;Male;3549_left.jpg;3549_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3550;40;Male;3550_left.jpg;3550_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3551;67;Female;3551_left.jpg;3551_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3552;48;Male;3552_left.jpg;3552_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3553;63;Female;3553_left.jpg;3553_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3554;31;Female;3554_left.jpg;3554_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3555;50;Male;3555_left.jpg;3555_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3556;56;Male;3556_left.jpg;3556_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3557;51;Male;3557_left.jpg;3557_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3558;59;Female;3558_left.jpg;3558_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3559;32;Male;3559_left.jpg;3559_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3560;43;Male;3560_left.jpg;3560_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3561;59;Female;3561_left.jpg;3561_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3562;63;Male;3562_left.jpg;3562_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3563;74;Male;3563_left.jpg;3563_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3564;56;Male;3564_left.jpg;3564_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3565;57;Male;3565_left.jpg;3565_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3566;62;Female;3566_left.jpg;3566_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3567;48;Male;3567_left.jpg;3567_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3568;69;Male;3568_left.jpg;3568_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3569;38;Male;3569_left.jpg;3569_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3570;48;Male;3570_left.jpg;3570_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3571;77;Female;3571_left.jpg;3571_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3572;79;Male;3572_left.jpg;3572_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3573;38;Female;3573_left.jpg;3573_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3575;55;Male;3575_left.jpg;3575_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3577;68;Male;3577_left.jpg;3577_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3578;23;Male;3578_left.jpg;3578_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3579;60;Male;3579_left.jpg;3579_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3581;43;Male;3581_left.jpg;3581_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3582;58;Male;3582_left.jpg;3582_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3583;71;Male;3583_left.jpg;3583_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3584;42;Male;3584_left.jpg;3584_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3585;52;Male;3585_left.jpg;3585_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3586;64;Male;3586_left.jpg;3586_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3587;42;Female;3587_left.jpg;3587_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3588;61;Male;3588_left.jpg;3588_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3589;62;Male;3589_left.jpg;3589_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3590;60;Male;3590_left.jpg;3590_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3591;66;Female;3591_left.jpg;3591_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3592;45;Male;3592_left.jpg;3592_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3593;53;Male;3593_left.jpg;3593_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3594;71;Female;3594_left.jpg;3594_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3595;74;Male;3595_left.jpg;3595_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3596;65;Female;3596_left.jpg;3596_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3597;51;Male;3597_left.jpg;3597_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3598;52;Female;3598_left.jpg;3598_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3600;59;Female;3600_left.jpg;3600_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3601;48;Female;3601_left.jpg;3601_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3604;51;Female;3604_left.jpg;3604_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3607;47;Female;3607_left.jpg;3607_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3611;73;Female;3611_left.jpg;3611_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3614;60;Female;3614_left.jpg;3614_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3615;40;Female;3615_left.jpg;3615_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3616;34;Female;3616_left.jpg;3616_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3621;63;Female;3621_left.jpg;3621_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3624;60;Female;3624_left.jpg;3624_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3625;70;Female;3625_left.jpg;3625_right.jpg;normal fundus;normal fundus;1;0;0;0;0;0;0;0
+3963;60;Male;3963_left.jpg;3963_right.jpg;age-related macular degeneration;moderate nonproliferative retinopathy,macular epiretinal membrane;0;1;0;0;1;0;0;1
+4000;66;Male;4000_left.jpg;4000_right.jpg;sever hypertension;mild hypertension;0;0;0;0;0;1;0;0
+4004;54;Male;4004_left.jpg;4004_right.jpg;mild hypertension;mild hypertension;0;0;0;0;0;1;0;0
+4062;58;Male;4062_left.jpg;4062_right.jpg;mild nonproliferative retinopathy,suspected glaucoma;suspected glaucoma;0;1;1;0;0;0;0;0
+4075;52;Male;4075_left.jpg;4075_right.jpg;mild nonproliferative retinopathy;suspected glaucoma;0;1;1;0;0;0;0;0
+4103;53;Male;4103_left.jpg;4103_right.jpg;age-related macular degeneration;mild nonproliferative retinopathy,age-related macular degeneration;0;1;0;0;1;0;0;0
+4145;71;Male;4145_left.jpg;4145_right.jpg;mild nonproliferative retinopathy,age-related macular degeneration;normal fundus;0;1;0;0;1;0;0;0
+4228;38;Female;4228_left.jpg;4228_right.jpg;moderate nonproliferative retinopathy,hypertensive retinopathy;hypertensive retinopathy;0;1;0;0;0;1;0;0
+4423;60;Female;4423_left.jpg;4423_right.jpg;moderate nonproliferative retinopathy,hypertensive retinopathy;moderate nonproliferative retinopathy,hypertensive retinopathy;0;1;0;0;0;1;0;0
+4434;42;Female;4434_left.jpg;4434_right.jpg;hypertensive retinopathy;mild nonproliferative retinopathy,hypertensive retinopathy;0;1;0;0;0;1;0;0
+4482;56;Male;4482_left.jpg;4482_right.jpg;hypertensive retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;1;0;0
+4503;49;Male;4503_left.jpg;4503_right.jpg;severe nonproliferative retinopathy,hypertensive retinopathy;severe nonproliferative retinopathy,hypertensive retinopathy;0;1;0;0;0;1;0;0
+4510;53;Male;4510_left.jpg;4510_right.jpg;moderate nonproliferative retinopathy,hypertensive retinopathy;moderate nonproliferative retinopathy,hypertensive retinopathy;0;1;0;0;0;1;0;0
+4646;48;Female;4646_left.jpg;4646_right.jpg;post retinal laser surgery,severe nonproliferative retinopathy;post retinal laser surgery,severe nonproliferative retinopathy;0;1;0;0;0;0;0;1
+4649;50;Female;4649_left.jpg;4649_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4652;48;Female;4652_left.jpg;4652_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4654;63;Female;4654_left.jpg;4654_right.jpg;moderate nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4656;65;Female;4656_left.jpg;4656_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4661;60;Female;4661_left.jpg;4661_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4662;48;Female;4662_left.jpg;4662_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4663;57;Female;4663_left.jpg;4663_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4665;64;Female;4665_left.jpg;4665_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4666;64;Female;4666_left.jpg;4666_right.jpg;severe nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4667;48;Female;4667_left.jpg;4667_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4668;48;Female;4668_left.jpg;4668_right.jpg;moderate nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4674;59;Female;4674_left.jpg;4674_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4680;49;Female;4680_left.jpg;4680_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4681;50;Female;4681_left.jpg;4681_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4687;63;Female;4687_left.jpg;4687_right.jpg;moderate nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4691;77;Female;4691_left.jpg;4691_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4692;58;Male;4692_left.jpg;4692_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4693;70;Male;4693_left.jpg;4693_right.jpg;normal fundus;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4694;56;Male;4694_left.jpg;4694_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4695;56;Male;4695_left.jpg;4695_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4696;55;Male;4696_left.jpg;4696_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4697;55;Male;4697_left.jpg;4697_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4698;36;Male;4698_left.jpg;4698_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4699;56;Male;4699_left.jpg;4699_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4700;62;Male;4700_left.jpg;4700_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4701;66;Female;4701_left.jpg;4701_right.jpg;moderate nonproliferative retinopathy;age-related macular degeneration;0;1;0;0;1;0;0;0
+4702;41;Female;4702_left.jpg;4702_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4703;39;Female;4703_left.jpg;4703_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4704;44;Male;4704_left.jpg;4704_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4705;51;Male;4705_left.jpg;4705_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4707;56;Female;4707_left.jpg;4707_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4708;56;Male;4708_left.jpg;4708_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4709;40;Female;4709_left.jpg;4709_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4710;45;Male;4710_left.jpg;4710_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4711;72;Female;4711_left.jpg;4711_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4712;62;Male;4712_left.jpg;4712_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4713;57;Male;4713_left.jpg;4713_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4714;45;Male;4714_left.jpg;4714_right.jpg;proliferative diabetic retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4715;36;Female;4715_left.jpg;4715_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4716;49;Male;4716_left.jpg;4716_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4717;62;Male;4717_left.jpg;4717_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4718;69;Female;4718_left.jpg;4718_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4720;64;Male;4720_left.jpg;4720_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4721;43;Male;4721_left.jpg;4721_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4722;48;Male;4722_left.jpg;4722_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4723;66;Male;4723_left.jpg;4723_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4724;62;Female;4724_left.jpg;4724_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4725;68;Male;4725_left.jpg;4725_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4726;44;Male;4726_left.jpg;4726_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4727;36;Female;4727_left.jpg;4727_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4729;49;Female;4729_left.jpg;4729_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4730;65;Female;4730_left.jpg;4730_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4731;65;Male;4731_left.jpg;4731_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4732;60;Female;4732_left.jpg;4732_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4733;53;Female;4733_left.jpg;4733_right.jpg;moderate nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4734;59;Female;4734_left.jpg;4734_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4735;54;Female;4735_left.jpg;4735_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4736;56;Female;4736_left.jpg;4736_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4737;49;Male;4737_left.jpg;4737_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4739;44;Female;4739_left.jpg;4739_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4740;66;Female;4740_left.jpg;4740_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4741;33;Male;4741_left.jpg;4741_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4742;47;Female;4742_left.jpg;4742_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4743;64;Male;4743_left.jpg;4743_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4744;57;Female;4744_left.jpg;4744_right.jpg;proliferative diabetic retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4745;43;Male;4745_left.jpg;4745_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4746;64;Female;4746_left.jpg;4746_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4747;64;Male;4747_left.jpg;4747_right.jpg;normal fundus;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4748;48;Male;4748_left.jpg;4748_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4749;52;Female;4749_left.jpg;4749_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4750;43;Female;4750_left.jpg;4750_right.jpg;severe nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4751;50;Male;4751_left.jpg;4751_right.jpg;moderate nonproliferative retinopathy;proliferative diabetic retinopathy;0;1;0;0;0;0;0;0
+4752;60;Male;4752_left.jpg;4752_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4753;56;Male;4753_left.jpg;4753_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4754;56;Male;4754_left.jpg;4754_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4755;44;Male;4755_left.jpg;4755_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4756;68;Female;4756_left.jpg;4756_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4757;65;Male;4757_left.jpg;4757_right.jpg;mild nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4759;64;Male;4759_left.jpg;4759_right.jpg;normal fundus;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4760;64;Male;4760_left.jpg;4760_right.jpg;moderate nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4761;49;Male;4761_left.jpg;4761_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4762;53;Male;4762_left.jpg;4762_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4763;56;Female;4763_left.jpg;4763_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4765;57;Male;4765_left.jpg;4765_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4766;68;Male;4766_left.jpg;4766_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4767;56;Male;4767_left.jpg;4767_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4769;46;Male;4769_left.jpg;4769_right.jpg;central retinal vein occlusion;hypertensive retinopathy;0;0;0;0;0;1;0;1
+4770;35;Male;4770_left.jpg;4770_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4774;53;Male;4774_left.jpg;4774_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4777;60;Male;4777_left.jpg;4777_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4778;50;Male;4778_left.jpg;4778_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4779;42;Male;4779_left.jpg;4779_right.jpg;mild nonproliferative retinopathy;normal fundus;0;1;0;0;0;0;0;0
+4780;64;Male;4780_left.jpg;4780_right.jpg;normal fundus;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4781;60;Male;4781_left.jpg;4781_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4782;52;Male;4782_left.jpg;4782_right.jpg;moderate nonproliferative retinopathy;moderate nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4786;30;Male;4786_left.jpg;4786_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4787;36;Male;4787_left.jpg;4787_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4788;59;Male;4788_left.jpg;4788_right.jpg;normal fundus;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4789;49;Male;4789_left.jpg;4789_right.jpg;severe proliferative diabetic retinopathy;proliferative diabetic retinopathy;0;1;0;0;0;0;0;0
+4791;46;Male;4791_left.jpg;4791_right.jpg;severe nonproliferative retinopathy;severe nonproliferative retinopathy;0;1;0;0;0;0;0;0
+4794;62;Male;4794_left.jpg;4794_right.jpg;mild nonproliferative retinopathy;mild nonproliferative retinopathy;0;1;0;0;0;0;0;0
